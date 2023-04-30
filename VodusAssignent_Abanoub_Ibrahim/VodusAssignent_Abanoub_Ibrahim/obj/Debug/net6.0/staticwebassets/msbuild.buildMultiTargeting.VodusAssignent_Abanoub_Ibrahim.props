@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VodusAssignent_Abanoub_Ibrahim.props" />
+</Project>

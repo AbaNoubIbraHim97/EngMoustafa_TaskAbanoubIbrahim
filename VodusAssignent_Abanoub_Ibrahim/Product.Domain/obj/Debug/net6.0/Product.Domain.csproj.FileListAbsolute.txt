@@ -1,0 +1,12 @@
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\bin\Debug\net6.0\Product.Domain.deps.json
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\bin\Debug\net6.0\Product.Domain.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\bin\Debug\net6.0\Product.Domain.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.csproj.AssemblyReference.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.AssemblyInfoInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.AssemblyInfo.cs
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\refint\Product.Domain.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\Product.Domain.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Domain\obj\Debug\net6.0\ref\Product.Domain.dll

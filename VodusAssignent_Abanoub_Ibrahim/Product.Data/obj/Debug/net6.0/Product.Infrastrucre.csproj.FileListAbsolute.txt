@@ -1,0 +1,17 @@
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Infrastrucre.deps.json
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Infrastrucre.runtimeconfig.json
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Infrastrucre.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Infrastrucre.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Domain.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\bin\Debug\net6.0\Product.Domain.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.csproj.AssemblyReference.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.AssemblyInfoInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.AssemblyInfo.cs
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.csproj.CoreCompileInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.csproj.CopyComplete
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\refint\Product.Infrastrucre.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\Product.Infrastrucre.genruntimeconfig.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Data\obj\Debug\net6.0\ref\Product.Infrastrucre.dll

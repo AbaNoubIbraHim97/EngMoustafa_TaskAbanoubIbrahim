@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Product.Applicarion/1.0.0": {
+        "dependencies": {
+          "Product.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Product.Applicarion.dll": {}
+        }
+      },
+      "Product.Domain/1.0.0": {
+        "runtime": {
+          "Product.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product.Applicarion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

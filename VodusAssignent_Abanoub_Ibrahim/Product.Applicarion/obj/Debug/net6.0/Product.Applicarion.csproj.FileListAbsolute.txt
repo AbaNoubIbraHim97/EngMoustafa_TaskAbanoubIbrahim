@@ -1,0 +1,15 @@
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\bin\Debug\net6.0\Product.Applicarion.deps.json
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\bin\Debug\net6.0\Product.Applicarion.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\bin\Debug\net6.0\Product.Applicarion.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\bin\Debug\net6.0\Product.Domain.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\bin\Debug\net6.0\Product.Domain.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.csproj.AssemblyReference.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.AssemblyInfoInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.AssemblyInfo.cs
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.csproj.CoreCompileInputs.cache
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.csproj.CopyComplete
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\refint\Product.Applicarion.dll
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\Product.Applicarion.pdb
+D:\Abanoub\VodusAssignent_Abanoub_Ibrahim\Product.Applicarion\obj\Debug\net6.0\ref\Product.Applicarion.dll
